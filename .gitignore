@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/p1.retry
+/p1.yml
+/playbook.retry

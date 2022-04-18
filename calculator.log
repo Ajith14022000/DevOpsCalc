@@ -1,0 +1,79 @@
+18/Apr/2022:11:52:08 +0530 [main] INFO  calculator.Calculator - [Subtract] - 45.010.035.0
+18/Apr/2022:11:52:08 +0530 [main] INFO  calculator.Calculator - [Subtract] - 51.00.550.5
+18/Apr/2022:11:52:08 +0530 [main] INFO  calculator.Calculator - [Subtract] - 3.011.0-8.0
+18/Apr/2022:11:52:08 +0530 [main] INFO  calculator.Calculator - [Subtract] - 100.32.697.7
+18/Apr/2022:11:53:03 +0530 [main] INFO  calculator.Calculator - [Subtract] - 5.02.03.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial] - 3.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 6
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial] - 6.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 720
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root] - 64.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 8.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root] - 100.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 10.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 5.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 1.6094379124341003
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root] - 625.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 25.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root] - 256.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 16.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 6.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 1.791759469228055
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 100.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 4.605170185988092
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial] - 5.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 120
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial] - 4.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 24
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power] - 2.0 10.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power Result] - 1024.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power] - 5.0 4.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power Result] - 625.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power] - 2.0 10.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power Result] - 1024.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power] - 3.0 4.0
+18/Apr/2022:12:54:15 +0530 [main] INFO  calculator.Calculator - [Power Result] - 81.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial] - 3.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 6
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial] - 6.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 720
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root] - 64.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 8.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root] - 100.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 10.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 5.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 1.6094379124341003
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 1.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 0.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root] - 625.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 25.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root] - 256.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 16.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 6.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 1.791759469228055
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 100.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 4.605170185988092
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial] - 5.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 120
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial] - 4.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 24
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power] - 2.0 10.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power Result] - 1024.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power] - 5.0 4.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power Result] - 625.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power] - 2.0 10.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power Result] - 1024.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power] - 3.0 4.0
+18/Apr/2022:12:56:07 +0530 [main] INFO  calculator.Calculator - [Power Result] - 81.0
+18/Apr/2022:13:02:36 +0530 [main] INFO  calculator.Calculator - [Factorial] - 5.0
+18/Apr/2022:13:02:36 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 120
+18/Apr/2022:13:02:49 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 5.0
+18/Apr/2022:13:02:49 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 1.6094379124341003
+18/Apr/2022:13:02:58 +0530 [main] INFO  calculator.Calculator - [Power] - 2.0 8.0
+18/Apr/2022:13:02:58 +0530 [main] INFO  calculator.Calculator - [Power Result] - 256.0
+18/Apr/2022:13:03:20 +0530 [main] INFO  calculator.Calculator - [Square Root] - 81.0
+18/Apr/2022:13:03:20 +0530 [main] INFO  calculator.Calculator - [Square Root Result] - 9.0
+18/Apr/2022:13:03:27 +0530 [main] INFO  calculator.Calculator - [Factorial] - 9.0
+18/Apr/2022:13:03:27 +0530 [main] INFO  calculator.Calculator - [Factorial Result] - 362880
+18/Apr/2022:13:03:39 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm] - 20.0
+18/Apr/2022:13:03:39 +0530 [main] INFO  calculator.Calculator - [Natural Logarithm Result] - 2.995732273553991

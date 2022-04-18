@@ -1,0 +1,13 @@
+---
+- name: Fetch Docker Image And Run
+  hosts: ubuntu18
+  remote_user: server
+
+  tasks:
+    - name: pull image
+      docker_container:
+        name: java_calculator_app
+        image: 9542289925/calculator_app
+        pull: yes
+        state: started
+
