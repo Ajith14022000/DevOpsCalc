@@ -10,7 +10,7 @@ pipeline{
 		stage('Git Pull')
 		{
 			steps{
-				git 'https://github.com/praveenreddychalamalla/DevOpsCalculator.git'
+				git 'https://github.com/Ajith14022000/DevOpsCalc'
 			}
 		}
 		stage('Maven Build and Test')
@@ -23,11 +23,11 @@ pipeline{
 		{
 			steps{
 			    echo 'docker tag'
-				sh 'docker build . -t 9542289925/calculator_app'
+				sh 'docker build . -t Ajith1402/calculator_app'
 				echo 'docker login'
 				sh 'echo $DOCKERHUB_CREDENTIALS_PSW | docker login -u $DOCKERHUB_CREDENTIALS_USR --password-stdin'
 				echo 'Pushing image to docker hub'
-				sh 'docker push 9542289925/calculator_app'
+				sh 'docker push Ajith1402/calculator_app'
 				echo 'docker logout'
 				sh 'docker logout'
 
